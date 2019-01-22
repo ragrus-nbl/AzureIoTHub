@@ -479,6 +479,9 @@ This callback is called every time a new [request with desired Device Twin prope
 | --- | --- | --- |
 | *props* | Table | Key-value table with the desired properties and their version. Every key is always a *String* with the name of the property. The value is the corresponding value of the property. Keys and values are fully application specific. |
 
+[ll](#test) \
+<a id='test'>test text</a>
+
 #### Example ####
 
 ```squirrel
